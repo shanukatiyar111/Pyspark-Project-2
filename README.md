@@ -1,9 +1,8 @@
 # Pyspark-Project-2
 
 About the Project-
-1.We have Google Playstore Dataset
-2. Agenda- We have Google Playstore Dataset containing information of different apps installe drating and versions and other details and we are going to do analysis based on the data we 
-have.
+1. We have a Google Play store Dataset
+2. Agenda- We have the Google Playstore Dataset containing information on different app's installed drafting and versions and other details and we are going to do an analysis based on the data we have.
 
 3. Analysis-
    3.1 find top 10 reviews given to the apps
